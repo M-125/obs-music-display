@@ -16,4 +16,5 @@ this is a small python code made for displaying music name and it's creator in o
 
 ## packages
 pip install winsdk
+
 pip install obs-websocket-py 
