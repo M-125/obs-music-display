@@ -6,6 +6,7 @@ this is a small python code made for displaying music name and it's creator in o
 - Enable websocket server and click "show connect info"
 ![enable](images/image-1.png)
 - Copy Server password into obspass file
+
 ![copy](images/image-2.png)
 - Edit Title and Artist variables in main.py to the name of text object you want to use
 ![choose textobject](images/image-3.png)
