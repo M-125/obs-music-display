@@ -13,3 +13,7 @@ this is a small python code made for displaying music name and it's creator in o
 - Edit Title and Artist variables in main.py to the name of text object you want to use
 
 ![choose textobject](images/image-3.png)
+
+## packages
+pip install winsdk
+pip install obs-websocket-py 
